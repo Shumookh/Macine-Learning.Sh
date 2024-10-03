@@ -1,1 +1,1 @@
-This Project to appling most Machine-Learning 
+This project for appling the most algorathims of Machine-Learning 
